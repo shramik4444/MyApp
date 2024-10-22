@@ -1,0 +1,64 @@
+.first-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 250px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  border-radius: 20px;
+  margin-left: 30px;
+}
+.names {
+  color: black;
+}
+.search-icon {
+  color: black;
+  width: 20px;
+  height: 20px;
+}
+.jobs-bg {
+  background-color: black;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.type-font {
+  color: white;
+}
+
+.left-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.line {
+  color: white;
+  margin-right: 20px;
+  width: 100%;
+}
+.head-style {
+  font-size: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.search-cont {
+  color: black;
+}
+.nojobs-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

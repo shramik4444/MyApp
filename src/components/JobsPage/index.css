@@ -1,0 +1,119 @@
+* {
+  color: white;
+}
+
+.jobitem-bg {
+  background-color: black;
+  background-size: cover;
+  height: 100%;
+}
+
+.desc-cont {
+  display: flex;
+  flex-direction: row;
+}
+.img-size {
+  height: 300px;
+  width: 400px;
+  margin-left: 20px;
+}
+.skill-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.list-div {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+}
+.jobitem-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #272727;
+  background-size: cover;
+  height: 100%;
+  border-radius: 20px;
+  margin: 100px;
+  padding: 30px;
+}
+.logo-style {
+  height: 40px;
+  width: 40px;
+}
+.itemlogo-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-self: flex-start;
+  gap: 20px;
+}
+.iteminfo-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0px;
+}
+.desc {
+  align-self: flex-start;
+}
+.head {
+  font-size: 20px;
+}
+.itemlocation-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.itemtype-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+}
+.line {
+  color: white;
+  margin-right: 20px;
+  width: 100%;
+}
+.similar-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.card-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  margin: 30px;
+  background-color: #272727;
+  padding: 30px;
+  border-radius: 20px;
+}
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #272727;
+}
+.jobs-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  align-items: center;
+  color: white;
+}
+.lifeAtCompany-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}

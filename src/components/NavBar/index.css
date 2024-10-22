@@ -1,0 +1,14 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #272727;
+}
+.jobs-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  align-items: center;
+  color: white;
+}
